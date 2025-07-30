@@ -22,7 +22,7 @@
 💼 2+ years’ experience building secure, scalable systems with Spring Boot, AWS, React, Firebase  
 🌎 Based in Dallas, TX | Open to full-time opportunities from May 2025  
 🛠️ Love working on impactful products using **Java**, **Spring Boot**, **AWS**, **React**, **DevOps**, and **AI tools**  
-🧠 Currently diving deep into **LLMs**, **Kubernetes**, and **System Design**
+
 
 ---
 
@@ -48,18 +48,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Tech | Highlights |
-|--------|------|------------|
-| **📱 Maverick Market App** | Java, Firebase | Android app for UTA students to wishlist, purchase, and track items. |
-| **🎵 MUSIQI Music App** | React, Shazam API | Responsive web app for music playback, search, and playlists. |
-| **🤖 Cold Email Generator (GenAI)** | LangChain, LLaMA, ChromaDB | Automates custom outreach emails for tech sales using LLMs. |
-| **🎯 Object Detection** | YOLOv3, Python | Real-time object detection with 50K+ training images. |
-
-> 🌟 Explore more in my [Repositories »](https://github.com/TA-vindya?tab=repositories)
-
----
 
 ### 💼 Experience Snapshot
 
@@ -76,13 +65,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TA-vindya&show_icons=true&theme=tokyonight" alt="Vindya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TA-vindya&theme=tokyonight" />
-</p>
 
 ---
 
