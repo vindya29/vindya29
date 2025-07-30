@@ -9,9 +9,7 @@
   <a href="mailto:vindya.mv29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vindya.mv29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/TA-vindya">
-    <img src="https://img.shields.io/github/followers/TA-vindya?style=for-the-badge&logo=github" />
-  </a>
+  
 </p>
 
 ---
