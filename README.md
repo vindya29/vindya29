@@ -70,7 +70,6 @@
 
 - 💌 Email: [vindya.mv29@gmail.com](mailto:vindya.mv29@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/vindya-venkatesh](https://linkedin.com/in/vindya-venkatesh)  
-- 🐱 GitHub: [TA-vindya](https://github.com/TA-vindya)
 
 ---
 
