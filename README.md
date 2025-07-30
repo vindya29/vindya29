@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Vindya Maraliga Venkatesh</span></h1>
+<h1 align="center"> I'm <span style="color:#4CAF50;">Vindya Maraliga Venkatesh</span></h1>
 <h3 align="center">🚀 Software Engineer | ☁️ Cloud Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
